@@ -34,7 +34,8 @@ Everything else are optional, you can install and tweak what you like
 ## ⚙️ YASB Installation
 
    - Install from [YASB GitHub](https://github.com/amnweb/yasb)
-   - Copy `yasb/config.yaml` and `yasb/styles.css` into:
+   - Download `yasb-frosted-glass.zip`
+   - extract `yasb/config.yaml` and `yasb/styles.css` into:
      ```
      %userprofile%\.config\yasb
      ```
