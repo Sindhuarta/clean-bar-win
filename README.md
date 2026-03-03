@@ -1,7 +1,9 @@
-# clean-bar-win
+# Clean Desktop Mod
 My desktop setup using Windhawk tweaks and YASB configs.
 
 This repository contains my desktop customization setup using **Windhawk** and **YASB**.  
+I’m sharing these files so others can replicate or adapt the look and feel of my desktop.
+
 
 ---
 
@@ -19,7 +21,7 @@ I’ve listed the exact Windhawk mods I use along with their JSON configs (from 
 ### 📌 Mod List
 Here are the mods I currently use:
 - **Windows 11 Taskbar Styler** - _json included_
-- **Windows 11 Start Menu Styler** - _will update, still making better start menu top match the taskbar_
+- **Windows 11 Start Menu Styler** - _will update, still making better start menu to match the taskbar_
 - **Windows 11 Notification Center Styler** - _Translucent Shell for now_
 - **Taskbar tray auto-hide (show on hover)**
 - **Taskbar height and icon size** - _json included_
