@@ -8,6 +8,7 @@ This repository contains my desktop customization setup using **Windhawk** and *
 ## 🖥️ Tools Used
 - [Windhawk](https://github.com/ramensoftware/windhawk) → Windows customization tweaks
 - [YASB](https://github.com/amnweb/yasb) → Yet Another Status Bar for Windows
+- [Coodesker](https://www.coodesker.com/) → Desktop Organizer (optional)
 
 ---
 
